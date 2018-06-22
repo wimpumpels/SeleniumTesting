@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Validate Timesheet">
+  <test thread-count="1" name="Validate Timesheet">
+  <classes>
+  <class name="eTimesheets.MavenTest.ValidateTimesheet" />
+  </classes>
+  </test> <!-- Validate Timesheet -->
+</suite> <!-- Suite -->
